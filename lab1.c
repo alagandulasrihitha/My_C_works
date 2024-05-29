@@ -1,5 +1,13 @@
 #include<stdio.h>
 #include<math.h>
+
+__has_include
+__has_include
+
+this is srihitsha
+__has_include
+
+
 void main()
 {
 int a,b,c,d,m,n;
